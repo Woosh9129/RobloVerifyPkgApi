@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.2.2"
+  },
+  "name": "robloverify.api.pkg",
+  "description": "Nothing to see here.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woosh9129/RobloVerifyPkgApi.git"
+  },
+  "author": "Woosh9129",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Woosh9129/RobloVerifyPkgApi/issues"
+  },
+  "homepage": "https://github.com/Woosh9129/RobloVerifyPkgApi#readme"
+}
